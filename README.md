@@ -112,7 +112,7 @@ Verification
 ### Stored Memory Pattern
 
 ```text
-2 3 2 3 2 3 2 3 2 ...
+3 2 3 2 3 2 3 2 ...
 ```
 
 where:
