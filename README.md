@@ -1,4 +1,4 @@
-# FPGA SPI Master-Slave Validation Framework
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/fc3e7502-2ef6-451c-9c42-f944f2a1f5d9" /># FPGA SPI Master-Slave Validation Framework
 
 > A complete FPGA implementation and hardware validation framework for a 24-bit SPI communication system using Verilog HDL, Vivado ILA, and VIO on the Nexys A7 FPGA.
 
@@ -124,7 +124,12 @@ where:
 is stored at each memory location.
 
 ---
+## Results from ILA 
+![Sample Output Waveform](waveforms/sample_output_frm_ila.jpeg)
 
+
+![Sample Output Waveform](waveforms/sample_output2_frm_ila.jpeg)
+---
 ## Repository Structure
 
 ```text
